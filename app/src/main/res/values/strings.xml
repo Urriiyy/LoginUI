@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="under_one"><u>Forget password?</u></string>
+    <string name="under_two"><u>Creat new.</u></string>
+</resources>
